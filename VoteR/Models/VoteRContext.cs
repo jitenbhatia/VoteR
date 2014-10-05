@@ -5,6 +5,8 @@ using System.Linq;
 using System.Web;
 
 namespace VoteR.Models
+
+    // Test comment by jitenbhatia
 {
     public class VoteRContext : DbContext
     {
