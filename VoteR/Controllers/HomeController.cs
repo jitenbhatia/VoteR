@@ -8,6 +8,9 @@ using System.Web;
 using System.Web.Mvc;
 using VoteR.Models;
 
+
+// This is just a test for the purpose to check whether my edits are being committed in GITHUB and whether I can access
+// these changes later on with id jitenbhatia 
 namespace VoteR.Controllers
 {
     public class HomeController : Controller
